@@ -38,4 +38,4 @@ Saya menggunakan process yang sama untuk mempelajari Javascript, bangun awal, da
 2. Pengikutan berita. (Memahami bahawa berita yang disampaikan seharusya ditapis. Berita boleh ditapis dengan bertanya rakan / mengenai isu semasa)
 3. Penggunaan masa lapang untuk berfikir. (Melatih diri untuk memikirkan perkara kritikal ketika masa lapang)
 
-[1]  [merujuk kepada kerja yang dilakukan dengan penuh fokus dan tanpa gangguan](https://www.linkedin.com/pulse/deep-work-oleh-cal-newport-cara-tingkatkan-fokus-dan-asyraf-muda/?originalSubdomain=id)
+[1]  [Deep Work oleh Cal Newport - Cara Tingkatkan Fokus dan Produktiviti dalam Era Digital oleh Asyraf Muda](https://www.linkedin.com/pulse/deep-work-oleh-cal-newport-cara-tingkatkan-fokus-dan-asyraf-muda/?originalSubdomain=id)
