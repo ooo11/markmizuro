@@ -1,5 +1,5 @@
 ---
-title: "Jadual Harina"
+title: "Fokus Mendalam dan Tabiat Sekelumit"
 date: "2024-01-26T05:35:07.322Z"
 ---
 
