@@ -12,10 +12,7 @@ type Props = {
 
 const PostPreview = ({
   title,
-  
   date,
-
-  
   slug,
 }: Props) => {
   return (

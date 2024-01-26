@@ -12,7 +12,7 @@ type Props = {
 export default function Index({ allPosts }: Props) {
   return (
     <>
-      <Layout>
+      <Layout post>
         <Head>
           <title>Penulisan</title>
         </Head>

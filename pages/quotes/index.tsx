@@ -1,15 +1,19 @@
 import Container from "../../components/container";
-import ListStory from "../../components/listStory";
 import Layout from "../../components/layout";
-import { getAllPosts } from "../../lib/api";
+import { getAllQuotes } from "../../lib/api";
 import Head from "next/head";
-import Post from "../../interfaces/post";
+import Quote from "../../interfaces/quote";
 
 type Props = {
-  allPosts: Post[];
+  allQuotes: string;
 };
 
-export default function Index({ allPosts }: Props) {
+export default function Index( {allQuotes}:Props) {
+
+  const obj = JSON.parse(allQuotes);
+
+console.log(obj[0].writer);
+
   return (
     <>
       <Layout>
@@ -24,26 +28,13 @@ export default function Index({ allPosts }: Props) {
       </h2>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-1 mb-32 sm:max-w-md ">
-       <ul className="text-sm space-y-4">
-          <li >
-          "The less confident you are, the more serious you have to act." – Tara Ploughman
-          </li>
-          <li >
-          The sons of Hermes love to play,<br />
-          And only do their best when they<br />
-          Are told they oughtn't;<br />
-          Apollo's children never shrink<br />
-          From boring jobs but have to think<br />
-          Their work important.<br /> 
-          – W. H. Auden, Under Which Lyre
-          </li>
-          <li>
-          "Americans spend an average of four hours a day watching TV, an hour of that enduring ads. That adds up to an astounding 10% of total leisure time; at current rates, a typical viewer fritters away three years of his life getting bombarded with commercials."
-
-– Scott Woolley, Forbes
-          </li>
+       <ul className="text-sm space-y-12">
+          {obj.map((quote) => (
+          <li key={quote.content}>"{quote.content}"<br/> - {quote.writer}</li>
+        ))}
        </ul>
       </div>
+      
     </section>
         </Container>
       </Layout>
@@ -51,14 +42,14 @@ export default function Index({ allPosts }: Props) {
   );
 }
 
+//to pass data in Njs i need to make the data into props..
+
 export const getStaticProps = async () => {
-  const allPosts = getAllPosts([
-    "title",
-    "date",
-    "slug",
-  ]);
+  const allQuotes = getAllQuotes()
 
   return {
-    props: { allPosts },
-  };
+    props: {
+      allQuotes
+    }
+  }
 };

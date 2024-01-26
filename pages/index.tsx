@@ -11,7 +11,7 @@ type Props = {
 export default function Index({ allPosts }: Props) {
   return (
     <>
-      <Layout home>
+      <Layout home post>
         <Head>
           <title>Mark Mizuro</title>
         </Head>
@@ -20,14 +20,14 @@ export default function Index({ allPosts }: Props) {
         <h2 className="mb-8 text-4xl md:text-5xl font-bold tracking-tighter leading-tight">
          Mark Mizuro
         </h2>
-       <Link href={'/posts'} className="mx-2 px-1 pt-1 border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main" >Penulisan .</Link>
+       <Link href={'/posts'} className="mx-2 px-1 pt-1 border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main" >Penulisan.</Link>
       
         
         </Container>
 
         <p className="opacity-90 sm:max-w-md">Selamat datang ke penulisan saya. Untuk mendapatkan update semasa mengenai penulisan saya, sila rujuk{' '}
          <a href="https://twitter.com/mizuropeter" className="border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main">Twitter saya.</a>
-         Di sini saya paparkan hasil kerja dalam bentuk laman sesawang. Mengunakan semua yang telah saya pelajari, laman ini adalah untuk eksperimentasi menggunakan NextJS. 
+         {' '} Di sini saya paparkan hasil kerja dalam bentuk laman sesawang. Mengunakan semua yang telah saya pelajari, laman ini adalah untuk eksperimentasi menggunakan NextJS. 
         </p>
 
         <div className="relative transform scale-75 sm:m-16 sm:transform-none">

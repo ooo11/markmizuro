@@ -13,12 +13,14 @@ module.exports = {
       },
       spacing: {
         28: "7rem",
+        main:"calc(1ex / 0.32) 0"
       },
       letterSpacing: {
         tighter: "-.04em",
       },
       lineHeight: {
         tight: 1.2,
+        height: "calc(1ex / 0.32)",
       },
       fontSize: {
         "5xl": "2.5rem",

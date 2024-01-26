@@ -3,7 +3,7 @@ title: "Fokus Mendalam dan Tabiat Sekelumit"
 date: "2024-01-26T05:35:07.322Z"
 ---
 
-Berdasarkan pembacaan saya **[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)** dan **[Atomic Habits](https://jamesclear.com/)**, saya telah mengadaptasi kehidupan yang penuh dengan "Deep Work" atau "fokus mendalam" merujuk kepada kerja yang dilakukan dengan penuh fokus dan tanpa gangguan [1]. Sebelum kita lihat dengan lebih mendalam, sila rujuk jadual harian saya adalah seperti berikut: 
+Berdasarkan pembacaan saya **[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)** dan **[Atomic Habits](https://jamesclear.com/)**, saya telah mengadaptasi kehidupan yang penuh dengan "Deep Work" atau "fokus mendalam" merujuk kepada kerja yang dilakukan dengan penuh fokus dan tanpa gangguan [1]. Sebelum kita lihat dengan lebih mendalam, sila rujuk jadual harian saya. 
 
 - 0430 : Bangun dan mulakan ritual.
 - 0435 : Mula pengekodan.
@@ -32,10 +32,12 @@ Saya menggunakan process yang sama untuk mempelajari Javascript, bangun awal, da
 3. Mulakan dengan ritual anda. (Berdoa)
 4. Buat. (Membaca buku)
 
-"Focus mendalam" amat sukar dipraktikkan berbanding "tabiat sekelumit". Akan tetapi, sekiranya berjaya, anda mampu mendalami apa-apa pun jenis bahan bacaan. Kebanyakkan taktik yag dibukukan adalah cara untuk mengelak kita dari hilang focus seperti berikut.
+"Focus mendalam" amat sukar dipraktikkan berbanding "tabiat sekelumit". Akan tetapi, sekiranya berjaya, anda mampu mendalami apa-apa pun jenis bahan bacaan. Salah satu taktik yang telah dibukukan untuk mengelak kita dari hilang focus seperti berikut:
 
 1. Penggunaan Twitter, Email, Whatsapp. (Memahami bahawa Twitter hanyalah sebagai alat dan ia mempunyai kuasa untuk mengawal kita)
 2. Pengikutan berita. (Memahami bahawa berita yang disampaikan seharusya ditapis. Berita boleh ditapis dengan bertanya rakan / mengenai isu semasa)
 3. Penggunaan masa lapang untuk berfikir. (Melatih diri untuk memikirkan perkara kritikal ketika masa lapang)
+
+**Nota**
 
 [1]  [Deep Work oleh Cal Newport - Cara Tingkatkan Fokus dan Produktiviti dalam Era Digital oleh Asyraf Muda](https://www.linkedin.com/pulse/deep-work-oleh-cal-newport-cara-tingkatkan-fokus-dan-asyraf-muda/?originalSubdomain=id)
