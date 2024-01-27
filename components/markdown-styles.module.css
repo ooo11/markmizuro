@@ -2,20 +2,20 @@
   @apply text-base mx-4;
 }
 
-.markdown p{
+.markdown p {
   @apply leading-relaxed tracking-wide m-main
 }
 
-.markdown ul{
+.markdown ul {
   @apply list-disc list-inside
 }
 
-.markdown li{
+.markdown li {
   @apply mb-3
 }
 
-.markdown ol{
- @apply list-decimal list-inside 
+.markdown ol {
+  @apply list-decimal list-inside
 }
 
 .markdown blockquote {
@@ -28,4 +28,8 @@
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+
+.markdown a {
+  @apply border-b-4 border-main font-bold font-mono text-sm focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent text-sm hover:bg-main
 }
