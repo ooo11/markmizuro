@@ -10,6 +10,8 @@ import PostTitle from "../../components/post-title";
 import Head from "next/head";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type PostType from "../../interfaces/post";
+import ViewCounter from '@/lib/view-counter'
+
 
 type Props = {
   post: PostType;
@@ -26,6 +28,7 @@ export default function Post({ post, preview }: Props) {
     <Layout preview={preview}>
       <Container>
         <Header />
+         <ViewCounter />
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
