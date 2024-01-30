@@ -11,6 +11,7 @@ import Head from "next/head";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type PostType from "../../interfaces/post";
 import ViewCounter from '../../lib/view-counter'
+import { Suspense } from 'react'
 
 
 type Props = {
@@ -28,7 +29,10 @@ export default function Post({ post, preview }: Props) {
     <Layout preview={preview}>
       <Container>
         <Header />
-         <ViewCounter />
+         <Suspense>
+            {/* @ts-expect-error Async Server Component */}
+            <ViewCounter />
+          </Suspense>
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
