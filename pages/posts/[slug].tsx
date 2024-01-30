@@ -10,7 +10,7 @@ import PostTitle from "../../components/post-title";
 import Head from "next/head";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type PostType from "../../interfaces/post";
-import ViewCounter from '@/lib/view-counter'
+import ViewCounter from '../../lib/view-counter'
 
 
 type Props = {
