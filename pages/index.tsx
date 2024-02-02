@@ -30,9 +30,9 @@ export default function Index({ allPosts }: Props) {
 
         </Container>
 
-        <p className="opacity-90 sm:max-w-md">Selamat datang ke penulisan saya. Untuk mendapatkan update semasa mengenai penulisan saya, sila rujuk{' '}
-          <a href="https://twitter.com/mizuropeter" className="border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main">Twitter saya.</a>
-          {' '} Di sini saya paparkan hasil kerja dalam bentuk laman sesawang. Mengunakan semua yang telah saya pelajari, laman ini adalah untuk eksperimentasi menggunakan NextJS.
+        <p className="opacity-90 sm:max-w-md">Welcome to my sites where you can find my essay. Do follow me on {' '}
+          <a href="https://twitter.com/mizuropeter" className="border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main">Twitter.</a>
+          {' '}I'm using this website as an experimentation platform for my learning journey, especially with NextJS. Additionally, it serves as a journal for documenting my experiences and thoughts for the days ahead.
         </p>
 
         <div className="relative transform scale-75 sm:m-16 sm:transform-none">

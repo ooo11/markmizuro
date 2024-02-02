@@ -27,7 +27,7 @@ const Layout = ({ home, children, preview, post }: Props) => {
       )}
       {!post && (
         <div className="ml-12 mb-12 ">
-          <Link href="/posts" className="border-b-4 border-main font-bold  text-xl focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main">Penulisan.</Link>
+          <Link href="/posts" className="border-b-4 border-main font-bold  text-xl focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main">Essay.</Link>
         </div>
       )}
        </Container>
