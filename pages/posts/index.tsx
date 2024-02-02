@@ -14,7 +14,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout post>
         <Head>
-          <title>Essay.</title>
+        <title>Essay.</title>
         </Head>
         <Container>
           <ListStory posts={allPosts} />
