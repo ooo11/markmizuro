@@ -2,7 +2,7 @@
 title: "Hack to Read"
 date: "2024-01-30T02:02:46.706Z"
 ---
-Like many others, I set out early in the year to read for one hour a day, taking my time. It may seem like a far-fetched idea, but I intend to pursue it.
+Like many others, I set my new year resolution to read a tons of book. It may seem like a far-fetched idea, but I intend to pursue it. This time, unlike the previous years, I dont just set my goals, I've made concrete plans to pursue them.
 
 I finished a book last December after hacking my way into the reading process. This is unusual for me considering the majority of the books I purchase wind up on the store shelf. I'll share my reading technique with you in this essay.
 
