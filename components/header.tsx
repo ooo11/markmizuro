@@ -7,7 +7,7 @@ const Header = () => {
         Mark Mizuro
       </Link>
       . */}
-      <link rel="shortcut icon" href="/public/favicon/favicon.ico" />
+      
     </h2>
   );
 };
