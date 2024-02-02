@@ -1,43 +1,40 @@
 ---
-title: "Fokus Mendalam dan Tabiat Sekelumit"
+title: "Practical From Books"
 date: "2024-01-26T05:35:07.322Z"
 ---
 
-Berdasarkan pembacaan saya **[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)** dan **[Atomic Habits](https://jamesclear.com/)**, saya telah mengadaptasi kehidupan yang penuh dengan "Deep Work" atau "fokus mendalam" merujuk kepada kerja yang dilakukan dengan penuh fokus dan tanpa gangguan [1]. Sebelum kita lihat dengan lebih mendalam, sila rujuk jadual harian saya. 
+After reading Deep Work and Atomic Habits, I've incorporated a lifestyle centered around "Deep Work," which means working with intense focus and no distractions. Before we dive into this further, please take a look at my daily schedule.
 
-- 0430 : Bangun dan mulakan ritual.
-- 0435 : Mula pengekodan.
-- 0630 : Tamat pengekodan. Bersedia untuk ke kerja.
-- 0700 : Membuat kopi dan sarapan.
-- 0740 : Perjalanan ke kerja.
-- 1730 : Pulang ke rumah. Rehat
-- 1830 : Membantu isteri kemas rumah dan memasak.
-- 1930 : Makan malam.
-- 2000 : Sambung pengekodan.
-- 2130 : Membaca buku.
+- 0430 : Wakes up and start my ritual.
+- 0435 : Coding.
+- 0630 : Ready to work
+- 0700 : Make coffee and breakfast
+- 0740 : Go to work.
+- 1730 : Back home and rest.
+- 1830 : Help wife to cook for dinner and chores. 
+- 1930 : Dinner
+- 2000 : Coding.
+- 2130 : Read books.
 - 2230 : Tidur
 
-Persoalan: Bagaimana untuk memulakan hari anda seawal 4:30 pagi? Bagaimana untuk membaca selama 1 jam.
+Question: How do you start your day as early as 4:30 AM? How do you manage to read for 1 hour?
 
-"Atomic Habit" atau "tabiat sekelumit" menggalakan kita memulakan tabiat baru melalui penjadualan yang termudah supaya menjadi kebiasaan. Membaca buku setiap hari selama 1 jam nampak mustahi. Akan tetapi, sekiranya kita memulakan tabiat ini dengan cara yang paling mudah seperti membaca selama 3 minit sehari, 1 jam akan menjadi lebih mudah untuk dicapai. Berikut adalah proses "tabiat sekelumit" yang boleh diadaptasikan dengan kehidupan harian. 
+"Atomic Habit" encourages us to establish new habits through the simplest scheduling to make them a routine. Reading a book for 1 hour every day may seem daunting. However, if we start this habit in the easiest way, such as reading for just 3 minutes a day, achieving 1 hour will become more manageable. Here is the "atomic habits" process that can be adapted into your daily life.
 
-1. Pilih tabiat baru yang bermanfaat. (Membaca buku)
-2. Pilih cara yang paling mudah untuk melakukan tabiat itu. (Membaca buku selama 3 minit)
-3. Melakukan tabiat itu setiap hari tanpa gagal dan tabiat itu akan menjadi anda. (Membaca buku selama 3 minit setiap hari)
+1. Choose a new habit. (Reading a book)
+2. Select the easiest way to perform that habit. (Reading a book for 3 minutes)
+3. Commit to doing the habit every day without fail, and it will become a part of you. (Reading a book for 3 minutes every day)
 
-Saya menggunakan process yang sama untuk mempelajari Javascript, bangun awal, dan membaca buku. Hasil daripada tabiat membaca telah membantu saya untuk mendalami dokumentasi framework React dan NextJS. Menggunakan "focus mendalam" dan "tabiat sekelumit" saya mampu mendalami sesuatu yang amat susah untuk difahami seperti bacaan yang berat dan pengekodan. Berikut pula adalah proses "focus mendalam" yang saya adaptasi.
+I've applied the same process to learn JavaScript, waking up early, and reading books. The reading habit has enabled me to delve into the documentation of React and NextJS frameworks. By using "deep work" and "atomic habit," I've been able to master complex subjects, such as dense reading materials and coding. Here is the "deep work" process I've adopted.
 
-1. Pilih tempat sesuai untuk melakukan "focus mendalam". (Ruang pejabat yang mempunyai kerusi dan meja)
-2. Pastikan tempat pilihan mempunyai persekitaran yang selesa tanpa gangguan. (Keadaan lampu yang sesuai untuk membaca, minuman tersedia)
-3. Mulakan dengan ritual anda. (Berdoa)
-4. Buat. (Membaca buku)
+1. Choose a suitable place for "deep work." (An office space with a chair and desk)
+2. Ensure the chosen place is a comfortable and distraction-free environment. (Appropriate lighting for reading, have beverages on hand)
+3. Begin with your ritual. (Prayer)
+4. Get to work. (Reading a book)
 
-"Focus mendalam" amat sukar dipraktikkan berbanding "tabiat sekelumit". Akan tetapi, sekiranya berjaya, anda mampu mendalami apa-apa pun jenis bahan bacaan. Salah satu taktik yang telah dibukukan untuk mengelak kita dari hilang focus seperti berikut:
+"Deep work" is more challenging to practice compared to "atomic habits." However, if you succeed, you can master any type of reading material. One tactic, documented to help us avoid losing focus, is as follows:
 
-1. Penggunaan Twitter, Email, Whatsapp. (Memahami bahawa Twitter hanyalah sebagai alat dan ia mempunyai kuasa untuk mengawal kita)
-2. Pengikutan berita. (Memahami bahawa berita yang disampaikan seharusya ditapis. Berita boleh ditapis dengan bertanya rakan / mengenai isu semasa)
-3. Penggunaan masa lapang untuk berfikir. (Melatih diri untuk memikirkan perkara kritikal ketika masa lapang)
+1. Using Twitter, Email, Whatsapp. (Understanding that Twitter is just a tool and we have the power to control it)
+2. Following the news. (Understanding that news should be filtered. You can filter news by asking friends or researching current issues)
+3. Utilizing free time for thinking. (Training yourself to engage in critical thinking during your free time)
 
-**Nota**
-
-[1]  [Deep Work oleh Cal Newport - Cara Tingkatkan Fokus dan Produktiviti dalam Era Digital oleh Asyraf Muda](https://www.linkedin.com/pulse/deep-work-oleh-cal-newport-cara-tingkatkan-fokus-dan-asyraf-muda/?originalSubdomain=id)

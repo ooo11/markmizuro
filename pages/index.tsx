@@ -25,7 +25,7 @@ export default function Index({ allPosts }: Props) {
           <h2 className="mb-8 text-4xl md:text-5xl font-bold tracking-tighter leading-tight">
             Mark Mizuro
           </h2>
-          <Link href={'/posts'} className="mx-2 px-1 pt-1 border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main" >Penulisan.</Link>
+          <Link href={'/posts'} className="mx-2 px-1 pt-1 border-b-2 border-main font-bold font-mono focus:outline-none focus:ring-4 focus:ring-main focus:ring-opacity-50 focus:border-transparent  text-sm hover:bg-main" >Essay.</Link>
 
 
         </Container>

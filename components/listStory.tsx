@@ -10,7 +10,7 @@ const ListStory = ({ posts }: Props) => {
     <section>
       <div >
         <h2 className="mb-8 text-4xl md:text-5xl font-bold tracking-tighter leading-tight">
-          Penulisan.
+          Essay.
         </h2>
         {/* <p className="text-sm mt-12 mb-12">If you're not sure which to read, try Is it Worth Being Wise?, Having Kids, or How to Lose Time and Money.</p> */}
       </div>
