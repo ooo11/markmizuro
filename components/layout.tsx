@@ -4,6 +4,7 @@ import Meta from "./meta";
 import Link from 'next/link';
 import { Lora } from 'next/font/google';
 import Container from "./container";
+import { Analytics } from '@vercel/analytics/react';
 
 type Props = {
   home?: boolean;
@@ -32,7 +33,10 @@ const Layout = ({ home, children, preview, post }: Props) => {
           )}
         </Container>
 
-        <main>{children}</main>
+        <main>
+          {children}
+          <Analytics />
+        </main>
       </div>
 
       <Footer />
