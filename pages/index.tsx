@@ -4,6 +4,7 @@ import Head from "next/head";
 import Post from "../interfaces/post";
 import Link from "next/link";
 import { getTime } from "date-fns";
+import styles from './styles.module.css'
 
 type Props = {
   allPosts: Post[];
@@ -38,22 +39,28 @@ export default function Index({ allPosts }: Props) {
         <div className="">
           <Link href={'/quotes'}>
             <div className="p-20 max-w-sm w-full mx-auto">
-              <div className="animate-bounce">
-                <div className="relative w-[212px] h-[100px] box-content 
-
-                  before:content-[''] before:absolute before:top-0 before:left-0
-                  before:h-[60px] before:w-[60px] before:border-[20px] 
-                  before:border-main before:border-solid before:rounded-t-[50px]
-                  before:rounded-tr-[50px] before:rounded-b-0 before:rounded-l-[50px] 
-                  before:-rotate-45 before:box-content 
-
-                  after:content-[''] after:absolute after-top-0 after:right-0 
-                  after:left-auto after:h-[60px] after:w-[60px] after:border-[20px] 
-                  after:border-main after:border-solid after:rounded-t-[50px] 
-                  after:rounded-r-[50px] after:rounded-b-0 after:rounded-l-0 
-                  after:rotate-45 after:box-content">
-                </div>
-              </div>
+            <div className={styles.parent}>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
             </div>
           </Link>
         </div>
