@@ -24,7 +24,7 @@
   }
   .parent div:before {
     left: auto;
-    right: -165px;
+    right: -7.5rem;
     border-radius: 50px 50px 50px 0;
     transform: rotate(45deg);
   }
