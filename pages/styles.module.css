@@ -179,11 +179,5 @@
       transform: translateX(123px);
     }
   }
-  
-  html {
-    background: black;
-    display: grid;
-    place-items: center;
-    height: 100vh;
-  }
+
   
